@@ -40,7 +40,7 @@ class ProductsService {
       options.limit = limit;
       options.offset = offset;
     }
-    const { price} = query;
+    const { price } = query;
     if (price) {
     options.where.price = price;
     }
