@@ -1,6 +1,6 @@
 #heading
 ![Node-js](https://user-images.githubusercontent.com/106114288/175822742-ba018abf-59d0-42d3-9e9b-7f01d83c3a7c.png)
-![javascript-logo-1](https://user-images.githubusercontent.com/106114288/175822825-094771f0-d077-4a12-9a7e-1e979bad4479.png)
+![PostgreSQL](https://user-images.githubusercontent.com/106114288/175822912-23f535b4-ba73-497d-8beb-e40139efd533.png)
 
 
 # Curso_practico_de_node_postgre
