@@ -1,5 +1,4 @@
-![node-express-sequelize-postgresql](https://user-images.githubusercontent.com/106114288/175823172-c40fc869-58d0-48c5-9bc8-2bbae2c30941.jpeg)
-
+![node-express-sequelize-postgresql](https://user-images.githubusercontent.com/106114288/175823172-c40fc869-58d0-48c5-9bc8-2bbae2c30941.jpeg) 
 
 # Curso_practico_de_node_postgre
 MyStore es una API rest de una tienda virtual que tiene como base mostrar la funcionalidad de la base de datos postgreSQL y mySQL por medio de ORMS. definiéndose ella mismas como base de datos relacional por medio de sus múltiples funcionalidades.
