@@ -1,25 +1,25 @@
 # Curso_practico_de_node_postgre
-MyStore es una API rest de una tienda virtual que tiene como base mostrar la funcionalidad de la base de datos postgres y mySQL por medio de ORMS. definiendose ella mismas como basde de datos realcional por medio de sus multiples funcionalidades.
+MyStore es una API rest de una tienda virtual que tiene como base mostrar la funcionalidad de la base de datos postgreSQL y mySQL por medio de ORMS. definiéndose ella mismas como base de datos relacional por medio de sus múltiples funcionalidades.
 
 
 # Lenguage (JavaScript, Node.js)
-Se uso javaScript de nivel avanzado y Node.js.
+Se usó JavaScript de nivel avanzado y Node.js.
 
 
 # Frameworks (Express)
-Se usa de la manera correcta express como el mini framework de mayor funcionalidad para lenguajes como Js y node.js
+Se usa de la manera correcta express como el mini Framework de mayor funcionalidad para lenguajes como JavaScript y Node.js
 
 
 # Tester HTTP (Postman, Insomnia)
-Para los tester se creo principalmente una configuracion basica en Postman e Imsomnia. en el cual se creo el metodo crud(Create, Read, Update and Delete).
+Para los tester se creó principalmente una configuración básica en Postman e Imsomnia. en el cual con el método crud(Create, Read, Update and Delete) para prueba  de funcionalidad.
 
 
 # ORM (Sequelize)
-Para la conexion con la base de datos se usa el script por defecto de node.js sin embargo se deja expresado para trabajar cpon mayo funcionalidad con SEQUELIZE.
+Para la conexión con la base de datos se usa el script por defecto de node.js sin embargo se deja expresado para trabajar con mayo funcionalidad con SEQUELIZE.
 
 
 # Database (Postgres, Myseql)
-se trabajo con postgres administrado por pgadmin y mysql administrado por phpmyadmin.
+Se trabajó con postgreSQL administrado por pgadmin y mySQL administrado por phpmyadmin.
 
 
 # Container (Docker)
@@ -27,4 +27,4 @@ se deja expresado un trabajo en memoria con Faker para darle funcionalidad a la 
 
 
 # PaaS (heroku)
-se uas heroku para haser el serverless y realizar el deployment de la api.
+se usa heroku para hacer el serverless y realizar el deployment de la api.
